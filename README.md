@@ -1,7 +1,7 @@
 # This Game was created as part of the GE-Lab course led by Prof. Dr. Tobias Breiner at the University of Applied Sciences Kempten
 ---
 Fly through a procedurally generated island in this 3D action game. Choose from different planes, dodge enemy turrets, and fight hostile aircraft. Manage your fuel carefully – you only refill by taking down enemies. Run out of fuel, and you crash.
----
+
 ## Contributors:
 - Florian Weiske
 - Yannick Schmid
